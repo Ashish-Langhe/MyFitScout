@@ -1,4 +1,4 @@
-# MyFitScout : WIP
+# MyFitScout: WIP
 **MyFitScout:** Your Personalized Health Navigator 🚀
 
 _Discover a new era of health and fitness with **MyFitScout** – your dedicated companion on the journey to a healthier you. Tailored to meet your unique wellness goals, this app goes beyond mere tracking; it's a holistic health navigator designed to empower and guide you every step of the way_.
